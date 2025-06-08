@@ -1,4 +1,4 @@
-//Function to calculate ingredients needed for making kenyan chao
+//Function to calculate ingredients needed for making kenyan chai
 function calculateChaiIngredients(numberOfCups) {
     //log the calculated ingredient amounts
     console.log(`To make ${numberOfCups} cups of Kenyan Chai, you will need:`);
